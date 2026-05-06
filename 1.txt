@@ -1,0 +1,10 @@
+Q.No-1 create a counter application with the following features 
+increment button, decrement button, reset button
+display the updated count on the screen
+
+
+Q.No-2 create a react application demonstrating the use of context api.
+requirements create a context, provide the data from the parent component consume the data in a nested child component
+
+
+npm run dev
